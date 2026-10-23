@@ -1,7 +1,5 @@
 # Design Docs — Webhooks de Notificação de Pedidos
 
-Enunciado original do desafio: [devfullcycle/mba-ia-desafio-design-docs-com-ia](https://github.com/devfullcycle/mba-ia-desafio-design-docs-com-ia).
-
 ## Sobre o desafio
 
 Transformar a transcrição de uma reunião técnica (`TRANSCRICAO.md`) e o código de um Order Management System (Node.js + TypeScript + Prisma/MySQL) em um pacote de design docs para a feature de webhooks de notificação de pedidos. A entrega é só documental: o código em `src/`, `prisma/` e `tests/` não foi alterado. Tudo tem que ser rastreável à transcrição ou ao código.
